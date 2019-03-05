@@ -9,6 +9,7 @@ Syncs the last x songs from a youtube playlist to your phone
 - You should install ffmpeg to be used by youtube-dl
 
 -On your phone install the dropsync app (Android) https://play.google.com/store/apps/details?id=com.ttxapps.dropsync
+
 -Sync the {FOLDER_FOR_PLAYLIST} from your dropbox to your phone
 
 -The script will need to be run manually, so you could set up a cronjob, or systemd timer https://wiki.archlinux.org/index.php/Systemd/Timers to automate
